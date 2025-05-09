@@ -5,7 +5,7 @@
 
 
 
-<img src="https://images.mirror-media.xyz/publication-images/-Gh6C4vVamKvXFpvE7083.png?height=500&amp;width=1000" decoding="async" data-nimg="fill" class="css-xah9so" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;">" 
+<img src="https://images.mirror-media.xyz/publication-images/-Gh6C4vVamKvXFpvE7083.png?height=500&amp;width=1000" decoding="async" data-nimg="fill" class="css-xah9so" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;">
 <h2>BTCC Nedir?</h2>
 <p>2011 yılında kurulan <strong>BTCC</strong>, dünyanın en eski ve güvenilir kripto para borsalarından biridir. Hem yeni başlayanlar hem de deneyimli yatırımcılar için şu özellikleriyle sorunsuz bir deneyim sunar:</p>
 <ul>
